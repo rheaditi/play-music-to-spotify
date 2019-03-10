@@ -1,6 +1,6 @@
 (function playlistToCSV(response){
 
-  const csvHeader = ([[`"title"`,`"artist"`,`"album"`].join(',')]) + '\r\n';
+  const csvHeader = ([[`"song"`,`"artist"`,`"album"`].join(',')]) + '\r\n';
   const songList = response[1][0];
 
   const songs = songList.map(song => {
