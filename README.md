@@ -29,3 +29,9 @@ This is what worked for me, on Chrome Version 73, as of 10th March 2019. If the 
 6. You can then head over to [`TuneMyMusic`](https://www.tunemymusic.com/#step1) & use their `'Upload a file'` option to upload the downloaded CSV file and they should be able to parse your playlist & import it onto any of their supported destinations, including Spotify.
 
 That's it! 🎧🎶
+
+---
+
+Once done you can revoke access for the app from [here](https://www.spotify.com/account/apps/); it's best to clean up.. just in-case :)
+
+
